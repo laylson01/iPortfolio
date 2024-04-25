@@ -257,9 +257,10 @@ h6 {
 }
 
 #hero .hero-container {
-  position: relative;
+  position:center ;
   z-index: 2;
   min-width: 300px;
+  text-align: center;
 }
 
 #hero h1 {
@@ -282,6 +283,7 @@ h6 {
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
+
 }
 
 @media (min-width: 1024px) {
