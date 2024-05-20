@@ -1,8 +1,14 @@
-Esse portfolio foi criado em um template Bootstrap, no qual algumas informações foram alteradas e outras removidas. Também foram feitas modificações nos detalhes do HTML e CSS. O site está hospedado em um servidor local utilizando Ngix RP e Cloudflare.
+# Projeto: Portfolio utilizando Bootstrap
 
-O intuito do projeto é praticar HTML, CSS e JS.
+Este é um projeto de portfolio criado utilizando um template Bootstrap chamado iPortfolio. Algumas informações foram modificadas e outras removidas para personalização. Além disso, foram feitas alterações nos detalhes do HTML e CSS para atender às necessidades específicas do projeto.
+
+O site está atualmente hospedado em um servidor local, utilizando Ngix RP para gerenciamento de proxy reverso e Cloudflare para otimização de desempenho e segurança.
+
+O objetivo principal deste projeto é praticar e aprimorar habilidades em HTML, CSS e JavaScript.
+
+## Informações do Projeto:
 
 - **Site:** [lacolyn.com](https://lacolyn.com/)
-- **Template Name:** [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
-- **Author:** [BootstrapMade.com](https://bootstrapmade.com/)
-- **License:** [License](https://bootstrapmade.com/license/)
+- **Template Utilizado:** [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
+- **Autor do Template:** [BootstrapMade.com](https://bootstrapmade.com/)
+- **Licença:** [Licença](https://bootstrapmade.com/license/)
