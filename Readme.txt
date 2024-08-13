@@ -1,43 +1,62 @@
-# Projeto: Portfolio utilizando Bootstrap
+# Personal Portfolio - Laylson C. Silva
 
-Este projeto é um portfólio desenvolvido utilizando o template **iPortfolio** da BootstrapMade. O portfólio foi personalizado com modificações específicas para atender às necessidades do autor, incluindo alterações em HTML, CSS e remoção de elementos não necessários. O objetivo principal do projeto é praticar e aprimorar habilidades em **HTML**, **CSS** e **JavaScript**.
+This repository contains the source code for Laylson C. Silva's personal portfolio website. The website is designed to showcase Laylson's skills, experience, and educational background in the field of Information Technology, with a focus on cybersecurity, Linux systems, and web development.
 
-## Informações do Projeto
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contact](#contact)
+- [License](#license)
 
-- **Site:** [lacolyn.com](https://lacolyn.com/)
-- **Template Utilizado:** [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
-- **Autor do Template:** [BootstrapMade.com](https://bootstrapmade.com/)
-- **Licença do Template:** [Licença](https://bootstrapmade.com/license/)
-Personalizações Realizadas
+## Overview
+This portfolio website is a personal project that highlights Laylson's professional experience, skills, and educational achievements. The site includes sections such as a hero banner, about, skills, experience, education, and a contact form.
 
-1. **Modificações no Conteúdo:**
-   - Várias informações e seções do template original foram alteradas ou removidas para refletir com precisão as informações e preferências pessoais do autor.
+## Features
+- **Responsive Design**: Optimized for various devices, including desktops, tablets, and smartphones.
+- **Dynamic Content**: Uses animations and transitions powered by AOS (Animate On Scroll).
+- **Contact Form**: Integrated Google Maps for location and contact information.
+- **Social Links**: Quick access to Laylson's social profiles including LinkedIn, GitHub, and Facebook.
+- **Portfolio Section**: Displays certificates and other relevant achievements.
 
-2. **Ajustes no HTML:**
-   - Edição da estrutura do HTML para melhorar a semântica e acessibilidade do site.
-   - Personalização dos elementos para melhor adequação ao conteúdo.
+## Technologies Used
+- **HTML5**: Markup language used for structuring the content.
+- **CSS3**: Styling with Bootstrap and custom styles.
+- **JavaScript**: Interactivity and animations.
+- **Bootstrap**: Front-end framework for responsive design.
+- **AOS (Animate On Scroll)**: For smooth scroll animations.
+- **Google Fonts**: Open Sans, Raleway, and Poppins fonts for typography.
+- **Google Maps**: Embedded for location display.
+- **Font Icons**: Bootstrap Icons, Boxicons for social and navigation icons.
 
-3. **Alterações no CSS:**
-   - Customização dos estilos para alinhar com a identidade visual desejada.
-   - Ajustes nas cores, fontes e espaçamentos para um layout mais harmonioso.
+## Setup
+To run this project locally:
 
-## Tecnologias e Ferramentas Utilizadas
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/laylson01/portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd portfolio
+    ```
+3. Open `index.html` in your preferred web browser.
 
-- **HTML5:** Estruturação do conteúdo e criação de elementos semânticos.
-- **CSS3:** Estilização personalizada do layout e responsividade.
-- **JavaScript:** Interatividade e funcionalidade do site.
-- **Bootstrap:** Framework CSS utilizado para garantir responsividade e design moderno.
-- **Nginx RP:** Utilizado para gerenciamento de proxy reverso no servidor local.
-- **Cloudflare:** Implementado para otimização de desempenho e segurança do site.
+## Usage
+This portfolio is intended to serve as a digital resume and portfolio for Laylson C. Silva. It is a demonstration of his skills and experience in the IT field, and can be used for professional networking and job applications.
 
-## Hospedagem e Desempenho
+### Customization
+You can customize this portfolio by editing the content in the HTML files and the styles in the CSS files located in the `assets/css` directory.
 
-O site está hospedado em um servidor local, utilizando **Nginx RP** para proxy reverso, o que facilita a distribuição e segurança das conexões. Para garantir desempenho otimizado e proteção contra ameaças, o serviço **Cloudflare** foi integrado, proporcionando caching, minificação de arquivos e proteção contra DDoS.
+## Contact
+For any inquiries or professional connections, you can reach Laylson C. Silva via:
 
-## Objetivo do Projeto
+- **Email**: laylson01@hotmail.com
+- **Phone**: +55 98 988770362
+- **LinkedIn**: [Laylson C. Silva](https://www.linkedin.com/in/layls0ns1lva/)
+- **GitHub**: [laylson01](https://github.com/laylson01)
 
-O objetivo deste projeto é servir como um exercício prático para aprimorar habilidades de desenvolvimento web, com foco em **HTML**, **CSS** e **JavaScript**. A personalização de um template pré-existente também permitiu uma exploração mais profunda dos componentes e técnicas avançadas de design e desenvolvimento web.
-
-## Conclusão
-
-Este portfólio reflete o compromisso com o aprendizado contínuo e a aplicação prática de tecnologias web. Ele demonstra a capacidade de adaptar e personalizar ferramentas e templates existentes para criar um produto final que atenda às necessidades específicas e aos padrões modernos de design.
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
